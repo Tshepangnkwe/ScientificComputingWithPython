@@ -91,7 +91,7 @@ Here’s where I track my progress through the course. I’ll update this table 
 
 | Course/Project                                             | Status               |
 |------------------------------------------------------------|----------------------|
-| Learn String Manipulation by Building a Cipher              | ✅ 33% Completed     |
+| Learn String Manipulation by Building a Cipher              | ✅ 38% Completed     |
 | Learn How to Work with Numbers and Strings by Implementing the Luhn Algorithm | Not Started         |
 | Learn Lambda Functions by Building an Expense Tracker       | Not Started         |
 | Learn Python List Comprehension by Building a Case Converter Program | Not Started         |
